@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.doda{
+    padding: 85px 180px;
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+.ota{
+    width: 240px;
+    height: 240px;
+    background: #995DB5;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+}
+.bola{
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+    background: #F7941F;
+    
+}
+.ota2  {
+    width: 240px;
+    height: 240px;
+    background: #995DB5;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    flex-direction: column;
+}
+.ota3  {
+    width: 240px;
+    height: 240px;
+    background: #995DB5;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    flex-wrap: wrap;
+}
+.ota4  {
+    width: 240px;
+    height: 240px;
+    background: #995DB5;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    justify-content: space-between;
+}
+.ota22 {
+    width: 240px;
+    height: 240px;
+    background: #995DB5;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    justify-content: end;
+}
+.ota33 {
+    width: 240px;
+    height: 240px;
+    background: #995DB5;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    justify-content: center;
+}
+.ota44 {
+    width: 240px;
+    height: 240px;
+    background: #995DB5;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    justify-content: space-around;
+}
+.ota222 {
+    width: 240px;
+    height: 240px;
+    background: #995DB5;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    align-items: end;
+}
+.ota333 {
+    width: 240px;
+    height: 240px;
+    background: #995DB5;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    align-items: center;
+}
+.ota444{
+    width: 240px;
+    height: 240px;
+    background: #995DB5;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    justify-content: space-evenly;
+}
+
